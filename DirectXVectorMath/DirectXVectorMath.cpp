@@ -74,7 +74,7 @@ int main()
 	cout << "The component of vector V1 are           = " << V1 << endl;
 	cout << "The component of vector V2 are           = " << V2 << endl;
 	cout << "The component of vector V3 are           = " << V3 << endl;
-	cout << "The sum of V1 and V2 , a=V1 + V2 , is        = " << a << endl;
+	cout << "The sum of V1 and V2 , a=V1 + V2 , is    = " << a << endl;
 	cout << "The difference of V1 and V2,b=V1-V2 , is = " << b << endl;
 	cout << "The scalar multiplication of V1 by 10 is = " << c << endl;
 	cout << "The normalize vector of V1 is            = " << d << endl;
